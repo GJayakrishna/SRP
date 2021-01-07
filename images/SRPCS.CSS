@@ -1,0 +1,44 @@
+body
+{
+	background:linear-gradient(45deg,green,yellow,deeppink);
+}
+div,h1
+{
+	text-align: center;
+	text-decoration: none;
+	color: blue;
+}
+.abc
+{
+	background: linear-gradient(45deg,orange,deeppink,orange);
+	
+	padding: 10px;
+	border-radius: 100px 100px 0px 0px;
+	width: 40%;
+	margin:auto;
+	margin-top: 30px;
+
+}
+img
+{
+	border-radius: 50px ;
+	box-shadow: 0 0 10px blue;
+
+
+}
+.ab
+{
+	width:100px; 
+}
+.s
+{
+	color: deeppink;
+}
+table
+{
+	width: 100%;
+}
+p
+{
+	font-family: cursive;
+}
